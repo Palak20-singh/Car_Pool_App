@@ -45,10 +45,10 @@ Car_Pool_App/
 │
 ├── bin/                        # Compiled .class files
 │
-├── .settings/                  # Eclipse IDE project settings
+├── .settings/                  # intellij IDEA project settings
 ├── Ridebookingsystem.java      # Main application entry point
-├── .classpath                  # Eclipse classpath configuration
-├── .project                    # Eclipse project metadata
+├── .classpath                  # intellij IDEA classpath configuration
+├── .project                    # intellij IDEA project metadata
 ├── .gitattributes
 └── README.md
 ```
@@ -88,7 +88,7 @@ java Ridebookingsystem
 
 ### Run in Eclipse
 
-1. Open Eclipse IDE
+1. Open intellij IDEA
 2. Go to **File → Import → Existing Projects into Workspace**
 3. Select the cloned `Car_Pool_App` folder
 4. Click **Finish**
@@ -113,7 +113,7 @@ Once the application starts, follow the on-screen menu prompts to:
 | Technology | Purpose |
 |------------|---------|
 | Java       | Core programming language |
-| Eclipse IDE | Development environment |
+| intellij IDEA | Development environment |
 | OOP Principles | Encapsulation, Inheritance, Polymorphism |
 | Java Collections | Managing ride and passenger data |
 
